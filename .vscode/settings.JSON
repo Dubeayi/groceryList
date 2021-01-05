@@ -1165,7 +1165,7 @@
   "explorer.confirmDelete": true,
 
   // Controls whether the explorer should ask for confirmation to move files and folders via drag and drop.
-  "explorer.confirmDragAndDrop": true,
+  "explorer.confirmDragAndDrop": false,
 
   // Controls whether file decorations should use badges.
   "explorer.decorations.badges": true,

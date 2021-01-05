@@ -1,0 +1,12 @@
+DROP DATABASE IF EXISTS groceryList2;
+
+CREATE DATABASE groceryList2;
+
+USE groceryList2;
+
+CREATE TABLE groceryList2 (
+    id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    item VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL
+);
+
